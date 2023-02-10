@@ -1,0 +1,11 @@
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\bin\Debug\cs_learning_app.exe.config
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\bin\Debug\cs_learning_app.exe
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\bin\Debug\cs_learning_app.pdb
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.csprojAssemblyReference.cache
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.Properties.Resources.resources
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.csproj.GenerateResource.cache
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.exe
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.pdb
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.MainForm.resources
+C:\Users\Utilisateur1\source\repos\cs_learning_app\cs_learning_app\obj\Debug\cs_learning_app.PopUpForm.resources
